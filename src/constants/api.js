@@ -1,0 +1,1 @@
+export const KEYWORD_API = "https://semrush-home-test.s3.amazonaws.com/keywords.json";
